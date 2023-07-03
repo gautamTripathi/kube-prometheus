@@ -19,5 +19,5 @@ Alert manager Manifests: https://github.com/bibinwilson/kubernetes-alert-manager
 Grafana manifests: https://github.com/bibinwilson/kubernetes-grafana
 
 Node Exporter manifests: https://github.com/bibinwilson/kubernetes-node-exporter
-
+https://devopscube.com/setup-prometheus-monitoring-on-kubernetes/
 
